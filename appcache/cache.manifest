@@ -1,0 +1,15 @@
+CACHE MANIFEST
+# Time: Wed Jan 14 2015 - v5
+
+CACHE:
+/sandbox/appcache/index.html
+/sandbox/appcache/index2.html
+/sandbox/appcache/index3.html
+/sandbox/appcache/yakari1.jpg
+/sandbox/appcache/yakari2.jpg
+
+NETWORK:
+*
+
+
+
